@@ -1,6 +1,6 @@
 {
   "name": "financial-modeling-prep-mcp-server",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "A Model Context Protocol (MCP) implementation for Financial Modeling Prep, enabling AI assistants to access and analyze financial data, stock information, company fundamentals, and market insights.",
   "main": "src/index.ts",
   "scripts": {
